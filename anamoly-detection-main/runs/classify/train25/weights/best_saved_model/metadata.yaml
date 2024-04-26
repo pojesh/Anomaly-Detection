@@ -1,0 +1,17 @@
+description: Ultralytics YOLOv8n-cls model trained on datasets
+author: Ultralytics
+license: GPL-3.0 https://ultralytics.com/license
+version: 8.0.58
+stride: 1
+task: classify
+batch: 1
+imgsz:
+- 64
+- 64
+names:
+  0: fight
+  1: fire
+  2: knife
+  3: no-fight
+  4: no-fire
+  5: weapon
