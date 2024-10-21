@@ -1,4 +1,4 @@
-# Real-Time Object Detection using YOLOv7
+# Real-Time Threat Detection using YOLOv7
 
 This project uses YOLOv7 to capture real-time video feed and detect the presence of fire, guns/weapons, knives, or classify frames as normal. It is built for safety and security monitoring.
 
